@@ -1,0 +1,1 @@
+import{t as e}from"./offer-poster-DXJnwnKZ.js";import{r as t,t as n}from"./index-B1x0px2E.js";var r=t();function i(){let{format:t}=n.useSearch();return(0,r.jsx)(`main`,{className:`overflow-hidden bg-bg p-0`,style:t===`feed`?{width:1080,height:1350}:{width:1080,height:1920},children:(0,r.jsx)(e,{format:t})})}export{i as component};
